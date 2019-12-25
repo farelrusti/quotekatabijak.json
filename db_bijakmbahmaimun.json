@@ -1,10 +1,38 @@
 [
  {
+	 "wallpaper_index":"15",
+	 "wallpaper_name":"Nasehat Bijak",
+	 "wallpaper_site_name":"mbah maemun zubair",
+	 "wallpaper_site_url":"website",
+	 "wallpaper_url":"file:///android_asset/15.jpg"
+ },
+ {
+	 "wallpaper_index":"14",
+	 "wallpaper_name":"Nasehat Bijak",
+	 "wallpaper_site_name":"mbah maemun zubair",
+	 "wallpaper_site_url":"website",
+	 "wallpaper_url":"file:///android_asset/14.jpg"
+ },
+ {
+	 "wallpaper_index":"13",
+	 "wallpaper_name":"Nasehat Bijak",
+	 "wallpaper_site_name":"mbah maemun zubair",
+	 "wallpaper_site_url":"website",
+	 "wallpaper_url":"file:///android_asset/13.jpg"
+ },
+ {
+	 "wallpaper_index":"12",
+	 "wallpaper_name":"Nasehat Bijak",
+	 "wallpaper_site_name":"mbah maemun zubair",
+	 "wallpaper_site_url":"website",
+	 "wallpaper_url":"file:///android_asset/12.jpg"
+ },
+ {
 	 "wallpaper_index":"11",
 	 "wallpaper_name":"Nasehat Bijak",
 	 "wallpaper_site_name":"mbah maemun zubair",
 	 "wallpaper_site_url":"website",
-	 "wallpaper_url":"https://pbs.twimg.com/media/DPDNM0PUQAA5AO6.jpg"
+	 "wallpaper_url":"file:///android_asset/11.jpg"
  },
  {
 	 "wallpaper_index":"10",
