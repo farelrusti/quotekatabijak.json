@@ -89,7 +89,7 @@
 	 "wallpaper_name":"House Plan",
 	 "wallpaper_site_name":"House & Home",
 	 "wallpaper_site_url":"website",
-	 "wallpaper_url":"file:///android_asset/quote18.webp"
+	 "wallpaper_url":"file:///android_asset/quote18.jpg"
  },
  {
 	 "wallpaper_index":"23",
@@ -166,7 +166,7 @@
 	 "wallpaper_name":"House Plan",
 	 "wallpaper_site_name":"House & Home",
 	 "wallpaper_site_url":"website",
-	 "wallpaper_url":"file:///android_asset/quote13.webp"
+	 "wallpaper_url":"file:///android_asset/quote13.jpg"
  },
  {
 	 "wallpaper_index":"12",
@@ -222,7 +222,7 @@
 	 "wallpaper_name":"House Plan",
 	 "wallpaper_site_name":"House & Home",
 	 "wallpaper_site_url":"website",
-	 "wallpaper_url":"file:///android_asset/quote5.webp"
+	 "wallpaper_url":"file:///android_asset/quote5.png"
  },
  {
 	 "wallpaper_index":"4",
@@ -250,6 +250,6 @@
 	 "wallpaper_name":"House Plan",
 	 "wallpaper_site_name":"House & Home",
 	 "wallpaper_site_url":"website",
-	 "wallpaper_url":"file:///android_asset/quote1.webp"
+	 "wallpaper_url":"file:///android_asset/quote1.png"
  }
 ]
